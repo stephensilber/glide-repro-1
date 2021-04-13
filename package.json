@@ -1,0 +1,21 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@glideapps/glide-data-grid": "^2.1.10",
+    "direction": "^2.0.0",
+    "marked": "^2.0.3",
+    "next": "^10.0.0",
+    "next-transpile-modules": "^6.4.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-responsive-carousel": "^3.2.18",
+    "styled-components": "^5.2.3"
+  }
+}
